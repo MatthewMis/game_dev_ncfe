@@ -9,10 +9,29 @@ h1{
     text-align: center;
 }
 p{
+    font-size: 20px;
     color: #A09F98;
     text-align: center;
 }
 img{
     display: flex;
     justify-content: center;
+}
+head{
+    background-color: #FFE11E;
+    color:#FFFFFF
+}
+footer{
+    font-size: 28px;
+    display: flex;
+    background-color: #FFE11E;
+    color:#1D1C18;
+    justify-content: space-around;
+}
+a{
+    font-size: 28px;
+    display: flex;
+    background-color: #FFE11E;
+    color:#1D1C18;
+    justify-content: space-around;  
 }
