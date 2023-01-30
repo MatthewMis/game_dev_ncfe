@@ -12,3 +12,7 @@ p{
     color: #A09F98;
     text-align: center;
 }
+img{
+    display: flex;
+    justify-content: center;
+}
