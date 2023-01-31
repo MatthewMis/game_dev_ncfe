@@ -5,11 +5,13 @@ body{
 }
 h1{
     font-size: 40px;
+    font-family: 'Roboto', sans-serif;
     color: #9D8DF1;
     text-align: center;
 }
 p{
     font-size: 24px;
+    font-family: 'Roboto', sans-serif;
     color: #A09F98;
     text-align: center;
 }
@@ -17,26 +19,57 @@ p{
 header{
     display: flex;
     font-size: 28px;
+    font-family: 'Roboto', sans-serif;
     background-color: #FFE11E;
     color:#1D1C18;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 footer{
     font-size: 28px;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     background-color: #FFE11E;
     color:#1D1C18;
     justify-content: space-around;
 }
-a{
-    font-size: 28px;
-    display: flex;
-    background-color: #FFE11E;
-    color:#1D1C18;
-    justify-content: space-around;  
-}
+
 .gamer{
     display: flex;
     justify-content: center;
     justify-content: space-around;
+}
+.games{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+}
+.prices{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+.event-pics{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+}
+
+.links{
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    background-color: #FFE11E;
+    color:#1D1C18;
+    justify-content: space-between;  
+}
+button{
+    display: flex;
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #A09F98;
+    border-color: #A09F98;
+    border-style: groove;
+    color:#9D8DF1;
+    justify-content: flex-start;
 }
