@@ -42,10 +42,10 @@ a{
 }
 .games{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 200px;
 }
 .prices{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
