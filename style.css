@@ -40,3 +40,12 @@ a{
     justify-content: center;
     justify-content: space-around;
 }
+.games{
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+}
+.prices{
+    display: flex;
+    justify-content: space-between;
+}
