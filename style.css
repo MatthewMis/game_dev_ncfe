@@ -35,9 +35,6 @@ footer{
     font-size: 28px;
     font-family: 'Roboto', sans-serif;
     display: flex;
-    position: fixed;
-        left: 0;
-        bottom: 0;
     background-color: #FFE11E;
     color:#1D1C18;
     justify-content: space-around;
@@ -159,9 +156,6 @@ button{
         font-size: 18px;
         font-family: 'Roboto', sans-serif;
         display: flex;
-        position: fixed;
-        left: 0;
-        bottom: 0;
         background-color: #FFE11E;
         color:#1D1C18;
         justify-content: space-around;
@@ -277,9 +271,6 @@ button{
     footer{
         font-size: 13px;
         font-family: 'Roboto', sans-serif;
-        position: fixed;
-        left: 0;
-        bottom: 0;
         display: flex;
         background-color: #FFE11E;
         color:#1D1C18;
