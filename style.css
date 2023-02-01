@@ -117,6 +117,12 @@ button{
     justify-content: space-around;
     text-align: center;
 }
+.form{
+    height: 200px;
+}
+.hours{
+    height: 200px;
+}
 
 @media only screen and (max-width: 768px) {
     body{
@@ -232,6 +238,12 @@ button{
         justify-content: space-around;
         text-align: center;
     }
+    .form{
+        height: 150px;
+    }
+    .hours{
+        height: 150px;
+    }
 }
 @media only screen and (max-width: 600px) {
     body{
@@ -271,6 +283,7 @@ button{
         font-size: 13px;
         font-family: 'Roboto', sans-serif;
         display: flex;
+        bottom: 0;
         background-color: #FFE11E;
         color:#1D1C18;
         justify-content: space-around;
@@ -346,5 +359,11 @@ button{
         color: #FFFFFF;
         justify-content: space-around;
         text-align: center;
+    }
+    .form{
+        height: 125px;
+    }
+    .hours{
+        height: 125px;
     }
 }
